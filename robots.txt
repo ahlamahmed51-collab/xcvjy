@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xcvjy-gray.vercel.app/sitemap.xml
